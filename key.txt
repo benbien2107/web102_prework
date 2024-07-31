@@ -2,3 +2,10 @@ OOZEdiveTRAPpine
 6games-container.stats-card15
 11seafoamGAMES_JSON
 19187800268BRAIN
+74FLANNELCLICK
+toLocaleString<div>1ivy
+zoohowCEDAR
+
+What if a user discovers the site and wants to search for a specific game they have heard of?
+What if a user wants to use the nav bar at the top of the page to get to the Our Game section quickly?
+How would you update the CSS of the site to make it more visually appealing?
