@@ -214,7 +214,7 @@ mobileNav.addEventListener("click", () => toggleNav());
 document.querySelectorAll('.menubar a').forEach(link => {
   link.addEventListener('click', () => {
       if (navbar.classList.contains("active")) {
-          toggleNav(); // Close the nav bar
+          toggleNav(); // Close the nav bar becuase of toggle
       }
   });
 });

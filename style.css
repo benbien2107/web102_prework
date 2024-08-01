@@ -323,5 +323,5 @@ button:hover {
 
 .games-intro p {
   font-size: 18px;
-  color: var(--lighter-grey); /* Slightly lighter grey for paragraph text */
+  color: var(--lighter-grey); 
 }
