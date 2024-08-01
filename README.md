@@ -29,10 +29,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/sl7cGhV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with (https://imgur.com/)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -41,6 +41,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+CSS is proving to be the most challenging aspect of this prework. 
+As a less experienced front-end developer, I'm still learning and having a hard time with certain CSS concepts. 
+To speed up the process, I've incorporated online templates, such as the hamburger menu, into my project. 
+However, effectively integrating these templates requires a solid understanding of the underlying CSS, which presents its own set of challenges.
 
 ## License
 
