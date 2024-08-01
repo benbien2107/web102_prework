@@ -4,7 +4,7 @@ Submitted by: Huu Phuc Bien
 
 *Games Search Basic App** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Required Features
 
