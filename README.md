@@ -29,11 +29,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/sl7cGhV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://imgur.com/a/sl7cGhV
+<img src='https://imgur.com/XtOcL6v' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/PCrMWm9
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with (https://imgur.com/)  
+GIF created with (https://imgur.com/), (ezgif.com), and (OBS)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
