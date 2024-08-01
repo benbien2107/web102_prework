@@ -30,6 +30,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/sl7cGhV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/sl7cGhV
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with (https://imgur.com/)  
