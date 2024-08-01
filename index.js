@@ -181,3 +181,40 @@ const secondGameElement = document.createElement("p");
 secondGameElement.textContent = `${secondGame.name} - $${secondGame.pledged.toLocaleString()}`;
 secondGameContainer.appendChild(secondGameElement);
 
+
+// search games 
+function searchGames() {
+  deleteChildElements(gamesContainer);
+  const searchInput = document.querySelector('.search-input').value.toLowerCase();
+  const filteredGames = GAMES_JSON.filter(game => game.name.toLowerCase().includes(searchInput));
+  console.log(filteredGames)
+  if (filteredGames.length === 0){
+    console.log("im in filtered Games")
+    gamesContainer.innerHTML = `<p> No games found </p>`;
+  }
+  else {
+    addGamesToPage(filteredGames);
+  }
+}
+
+const searchInput = document.querySelector('.search-input');
+searchInput.addEventListener('input', searchGames);
+
+
+const mobileNav = document.querySelector(".hamburger");
+const navbar = document.querySelector(".menubar");
+
+const toggleNav = () => {
+  navbar.classList.toggle("active");
+  mobileNav.classList.toggle("hamburger-active");
+};
+mobileNav.addEventListener("click", () => toggleNav());
+
+// Close the nav bar when a nav link is clicked
+document.querySelectorAll('.menubar a').forEach(link => {
+  link.addEventListener('click', () => {
+      if (navbar.classList.contains("active")) {
+          toggleNav(); // Close the nav bar
+      }
+  });
+});
