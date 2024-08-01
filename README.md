@@ -17,7 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Add a search bar that allows the user to search for a specific game by name. The search bar filters the displayed games in real-time based on the user's input.
+* [X] Add animated hamburger line style navigation menu. 
+* [X] Added dynamic closing functionality for the sidebar navigation menu when a menu item is clicked. 
+* [X] Change the color theme to black, white and grey. 
+* [X] Styled the navigation bar, search bar, and various sections to match the site's color theme and enhance visual appeal. 
+* [X] Add in hover effect for all the sections, buttons, game cards. 
+
 
 ## Video Walkthrough
 
